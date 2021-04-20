@@ -1,0 +1,6 @@
+fastbook
+fastai==2.1.8
+ipywidgets
+voila
+numpy
+pandas
