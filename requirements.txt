@@ -1,6 +1,11 @@
-fastbook
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
 fastai==2.1.8
-ipywidgets
 voila
+ipywidgets
+packaging
+pillow<7
+fastbook
 numpy
 pandas
